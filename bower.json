@@ -1,0 +1,19 @@
+{
+  "name": "tiff.js",
+  "version": "1.0.0",
+  "main": [
+    "dist/tiff.js",
+    "dist/tiff.min.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test"
+  ],
+  "devDependencies ": {
+	"jquery": "2.1.0",
+    "requirejs": "2.1.10"
+  }
+}
+
